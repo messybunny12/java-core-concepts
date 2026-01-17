@@ -1,18 +1,3 @@
----
-
-## 📅 Learning Approach
-
-- **Daily focused topics** with hands-on coding
-- Each folder contains:
-  - Well-commented Java code
-  - Topic-specific README with explanations
-- Emphasis on:
-  - *Why a concept is used*
-  - *How it works internally*
-  - *Where it is applied in real systems*
-
----
-
 ## 🛠 Technologies & Tools
 
 - **Java (Core & Advanced)**
