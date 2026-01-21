@@ -1,6 +1,6 @@
 ## 🛠 Technologies & Tools
 
-- **Java (Core & Advanced)**
+- **Java**
 - **Git & GitHub**
 - **DSA (Pattern-based approach)**
 - **SQL**
@@ -10,15 +10,12 @@
 ---
 ## 🚀 Roadmap Overview
 
-- **Month 1:** Java Core + OOP + GitHub consistency
-- **Month 2:** DSA (Arrays, Strings, LinkedList, Stack, Queue)
+- **Month 1:** Java Core + OOP 
+- **Month 2:** DSA 
 - **Month 3:** System Design + SQL
-- **Month 4:** Projects + Interview Preparation
+- **Month 4:** Projects 
 
----
-## 🤝 Connect
-
-This repository reflects my **learning discipline and growth mindset**.  
+--- 
 Feedback and suggestions are always welcome.
 
 ---
