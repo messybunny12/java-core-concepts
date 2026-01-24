@@ -54,7 +54,7 @@ public class ControlStatementsPractice {
         System.out.println("The reversed number is = "+ans);
     }
     //Count digits in a number
-    void  countdigits(int a)
+     static void  countdigits(int a)
     {
         int ans =0;
         while(a!=0)
@@ -91,6 +91,6 @@ public class ControlStatementsPractice {
         System.out.println("===============Output for Reversing a  numbers ============");
         c.reverseNumbers(12);
         System.out.println("===============Output for count of digit in a numbers ======");
-        c.countdigits(10);
+        countdigits(10);
     }
 }
